@@ -1,6 +1,6 @@
 flows:
-  37d1a9a7-f200-4b7c-97c5-de6ad9018af6: {ver: 1, file: PostgreKafkaFlow.snapshot,
-    comments: '', author: anonymous, created: 1635860067568, flowName: PostgreKafkaFlow,
+  37d1a9a7-f200-4b7c-97c5-de6ad9018af6: {ver: 2, file: PostgreKafkaFlow.snapshot,
+    comments: dodan log file, author: anonymous, created: 1635860357504, flowName: PostgreKafkaFlow,
     flowDesc: ''}
 layoutVer: 1
 bucketId: 50bfd0dd-1eb3-4d6c-861d-6e4f16e6d06b
