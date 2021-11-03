@@ -1,5 +1,5 @@
 flows:
-  c516298d-1f2d-4ccb-818c-f24f1e6ba091: {ver: 1, file: getput.snapshot, comments: '',
-    author: anonymous, created: 1635944437905, flowName: getput, flowDesc: ''}
+  c516298d-1f2d-4ccb-818c-f24f1e6ba091: {ver: 2, file: getput.snapshot, comments: commit,
+    author: anonymous, created: 1635944551595, flowName: getput, flowDesc: ''}
 layoutVer: 1
 bucketId: cfa679c1-9e66-4fa9-9478-df782d932c14

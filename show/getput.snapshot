@@ -75,13 +75,25 @@
         "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
         "funnels" : [ ],
         "identifier" : "443fde58-37a1-3704-a12b-433d59d0f852",
-        "inputPorts" : [ ],
+        "inputPorts" : [ {
+          "allowRemoteAccess" : false,
+          "componentType" : "INPUT_PORT",
+          "concurrentlySchedulableTaskCount" : 1,
+          "groupIdentifier" : "443fde58-37a1-3704-a12b-433d59d0f852",
+          "identifier" : "0fdfdb68-acfb-3ab0-8b7a-65ff72162a97",
+          "name" : "faf",
+          "position" : {
+            "x" : 1468.6050563815031,
+            "y" : 702.1618450294086
+          },
+          "type" : "INPUT_PORT"
+        } ],
         "labels" : [ ],
         "name" : "GetPutFile",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 1456.0,
-          "y" : 32.0
+          "x" : 1384.0,
+          "y" : -80.0
         },
         "processGroups" : [ ],
         "processors" : [ {
