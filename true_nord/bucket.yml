@@ -1,5 +1,5 @@
 flows:
-  d7b41f2c-b10f-412e-96a9-21a39b508f27: {ver: 1, file: postgreskafka.snapshot, comments: '',
-    author: anonymous, created: 1636119791717, flowName: postgreskafka, flowDesc: ''}
+  d7b41f2c-b10f-412e-96a9-21a39b508f27: {ver: 2, file: postgreskafka.snapshot, comments: commit,
+    author: anonymous, created: 1636119867905, flowName: postgreskafka, flowDesc: ''}
 layoutVer: 1
 bucketId: 7e0011bb-7173-492c-a4f4-df5cbf43b268
